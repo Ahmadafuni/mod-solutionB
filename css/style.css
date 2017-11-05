@@ -9,6 +9,67 @@ h1{
     margin-right: 15px;
     margin-left:15px;
 }
+div#section {
+  
+    box-sizing: border-box;
+    position: relative;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000000;
+    background-color: #cdd399;
+    margin: 10px
+   
+  }
+  
+div#sectionheader1 {
+  width: 30%;
+  background-color: #d39f99;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  position: relative;
+  float: right;
+  top: 0px;
+  right: 0px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin-bottom: 20px
+
+}
+div#sectionheader2 {
+  width: 30%;
+  background-color: #5aaeae;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  position: relative;
+  float: right;
+  top: 0px;
+  right: 0px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin-bottom: 20px
+
+}
+
+div#sectionheader3 {
+  width: 30%;
+  background-color: #93836b;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  position: relative;
+  float: right;
+  top: 0px;
+  right: 0px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin-bottom: 20px
+
+}
 #beef{
     border:1px solid;
     background-color:lightcoral;
